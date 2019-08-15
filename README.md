@@ -1,4 +1,4 @@
-  . ..
+  			. ..
                      ,-"'' "..,
                   ,:" VLA''..'.":,.
                ,AV 'HH-VAF'   ''.'.:,
@@ -24,10 +24,7 @@
        :   . .  '..:.'  '... ':II:.. . .;  .  .:::.:::.
        ". . .,,-AMI:.  .  . . ':II::'  .; ..   '::.::.:.
         ':-AMMMMMM:I. . .    . ':I:.   .I:. .  .'::::"::.
-      .AMMMMMMMMMMMV., ..    .. ':'. . .H::.. . .IAMMMMA:'
-    .AMMMMMMMMMMMMMMMM.:.   .  .::'.. .::":: ..  .:MMMMMMA
-   .MMMMMMMMMMMMMMMMMMI' .  .. .;'. . ..' .::.:. .-:MMMMMMMI
-
+    
 # How can you earned me?
 ## Always use virtual enviroment.
   create virtualenv python -m venv Nicole.
