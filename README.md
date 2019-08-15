@@ -73,4 +73,3 @@ with the below lines:
 bot.set_trainer(ChatterBotCorpusTrainer)
 bot.train("chatterbot.corpus.english
  
-
