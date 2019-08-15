@@ -1,29 +1,29 @@
-			"'' "..,
-                  ,:" VLA''..'.":,.
-               ,AV 'HH-VAF'   ''.'.:,
-               AM   --"LAA:  .   '':::,
-              AH"      "" ) . .:I:,..:.;
-             /HV          '.:""::.":I,.:,
-             AM'         '."  ' '';,';;.:,
-           .AM"         '"     ,,'":. ':.:
-          .AMM         ': .   ':;.-BL: '::
-         ,AMMM:        :::""  ':;. .::: .::
-         AMMMMA       :" .;;-  '::. '.:; .::
-         MMMMMMA     .":,P"  '  ;;I;. ': .::,
-         MMMMMMM,   ." :  . .:"'-";;:;.::.:I:
-         MMMMMMMM   : .: . .: .:-"""Y' ':..::;
-         VMMMMMMMA  : .':.':.A;,,-::"..'I.:;II
-          VMMMMMHMA,;. .::    """" .'.: A.::IA:
-           VHHMMHMHMA . .::   ' '   .: AH.:.:IH.
-           IMMHHHMHHM .  .:A,.  .  ..:IIHI:I:.:I:
-           'VMHHHMHAT:. ..::IHHI:II::::IHI:II:.::.
-           .IFFFHMMM':.. . .:II:I::..:.:HI'::':I:::.
-        .-"'    ":"" :. .. .:III::.... .I" .: :I:I:I:.
-       ."       '::,::'. .. .:II:... .. ;  .. .:.:I::,
-       :   . .  '..:.'  '... ':II:.. . .;  .  .:::.:::.
-       ". . .,,-AMI:.  .  . . ':II::'  .; ..   '::.::.:.
-        ':-AMMMMMM:I. . .    . ':I:.   .I:. .  .'::::"::.
-     
+.:HHVHA.
+                       .AHHHHHHHHH:.
+                      AHIHHHHIIHHHHH:
+                     AHIHHHHHHI:IIHHA,
+                    AHHHHIHHII::::IHHA
+                   AHHHHHHII::::HHHHHH:
+                  :HHHIHHI:::IHHHHHHHHH.
+                  :HHHH IH""VHHHHHHHHHHA.
+                  'HIIH..'': '.:HHHHIHHHA.
+                   HHIH:.-".  '-"'HHIHHHHHA.
+                   :HHI:'"'.     :HHIHHHHHH.
+                   HHHIH   -.'' 'IHIMHWWWHI.    "MY NAME IS NICOLE, NOW LET'S TRY
+                   .HHIMA '.,.-;'  MMMMMMM'       TO TALK ABOUT SOMETHING"
+                   :HHIIHHL  ""  .MMMIMMMMMMB
+                   "HIIHHHHHH.  :MMMIMMMMMMMMA.
+                 ,: :IHIHHHHMH: MMMMIMMMMMMMMMMMA.
+               /.'   HHHHHHHMH: VMMMMIMMMMMMMMMMMMA.
+               ::  .:: 'WHHHMM' 'MMMMHIMMMMMMMMMMMMMMA:
+               : "" 'IAMMMHHV'   MMMMHIMMMMMMMMMMMMMMMMMA.
+              .:    /'MMMHV'     MMMMHIMMMMMMMMMMMMMMMMMMMA.
+             .V      MMMV'      :MMMMHIHMMMMMMMMMMMMMMMMMMMMA.
+          .A"'    .AMMV'        VMMMMMHIMMMMMMMMMMMMMMMMMMMMM.
+        AMM:    .AMMM:          'VMMMMMMIHMMMMM VMMMMMMMMMMMV.
+       AMMM:   AMMMX .           'VMMMMMMIHMIAHMMMMMMMMMMMM"
+      :MMMM: .AMMMMMA              'VMMMMHIAMMMMMMMMMMMMMMV'
+      :MMMMI MMMV  ""A.      .      'VMMMVIMHMMMMMMMMMMMV'
 
 # How can you earned me?
 ## Always use virtual enviroment.
