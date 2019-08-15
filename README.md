@@ -23,19 +23,7 @@
        :   . .  '..:.'  '... ':II:.. . .;  .  .:::.:::.
        ". . .,,-AMI:.  .  . . ':II::'  .; ..   '::.::.:.
         ':-AMMMMMM:I. . .    . ':I:.   .I:. .  .'::::"::.
-      .AMMMMMMMMMMMV., ..    .. ':'. . .H::.. . .IAMMMMA:'
-    .AMMMMMMMMMMMMMMMM.:.   .  .::'.. .::":: ..  .:MMMMMMA
-   .MMMMMMMMMMMMMMMMMMI' .  .. .;'. . ..' .::.:. .-:MMMMMMMI
-  .AMMMMMMMMMMMMMMMMMMM.  . .. .:' .   .  . .:: . .AAMMMMMMMA
- .AMMMMMHMHHMMMMMMHMMHHMA:..:.::'    .   .  ..::VVIAAAMMMMMMMA
- AMMMMMMHHHHHHMHMMMV MHMMA.:..:'.         . . .::VMMMMAMMMMMMMI
-.MMMHHHHHHHMMMMHMMV  MMMM::,,:"   . .        . .:(.'   "VMMMMMMA
-AMMHHHHHHHMMMHMMV" .AF""' )II.   . .   .       . .:MMAL.  "VMMMMA
-MHHHHHHHHHMMMMV" .'   ..::HII'    .  .  .       ..:""""""   .:MMM
-MMMHHHHHHHMMV"      '.:.:)HI"     . . .         ..::-...   .:::VMA
-HHHHVT"""VV"       . .::.:HI       ....          .::'      .::.:.F''-.
-HF"    .-'          .:::LAHI .   . .:.:.        . ::''-. ..::.::.::"-.
-
+     
 
 # How can you earned me?
 ## Always use virtual enviroment.
