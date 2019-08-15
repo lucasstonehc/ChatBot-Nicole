@@ -25,10 +25,17 @@
        ". . .,,-AMI:.  .  . . ':II::'  .; ..   '::.::.:.
         ':-AMMMMMM:I. . .    . ':I:.   .I:. .  .'::::"::.
     
+
+#About me:
+ -NAME: NICOLE APINA PY.
+ -AGE: 19 years old.
+ -DESC: I love to talk about the universe, good food, right humans, travels, dreams, read a books and love the animals.
+ -HOBBY: Travels, Walker.
+ -BORN: CA.
+ 
 # How can you earned me?
 ## Always use virtual enviroment.
   create virtualenv python -m venv Nicole.
-
 
 ## Follow this steps:
 1 create virtualenv
