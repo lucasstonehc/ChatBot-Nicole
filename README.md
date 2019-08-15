@@ -26,7 +26,7 @@
         ':-AMMMMMM:I. . .    . ':I:.   .I:. .  .'::::"::.
     
 
-#About me:
+# About me:
  -NAME: NICOLE APINA PY.
  -AGE: 19 years old.
  -DESC: I love to talk about the universe, good food, right humans, travels, dreams, read a books and love the animals.
