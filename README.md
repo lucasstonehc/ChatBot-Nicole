@@ -34,24 +34,31 @@
  -BORN: CA.
  
 # How am i work?
-  I´m robot create to talk with you about a lot of things and every conversation i´m learning something. it´s really awesome, is it ?
+  I´m robot created to talk with you about a lot of things and every conversation i´m learning something. it´s really awesome, is it ?
   
 # How can you earned me?
   i was create in python language and my core is wrote in python, sure. then a recommendation for you used Virtual Enviroment (VENV).
   
   '''
-  create virtualenv python -m venv Nicole.
+   create virtualenv python -m venv Nicole.
   '''
-## Follow this steps:
-1 create virtualenv
-	python -m venv "name"
-2 go to your folder and into it
-3 activate virtual env
-4 update pip 
-5 python -m pip install --upgrade pip
-6 check version pip. command is pip --version
-7 pip install chatterbot==0.7.4 <> pip install --upgrade chatterbot==0.7.4
-8 pip install chatterbot-corpus==1.2.0
+  After created your venv, you have to go upto your folder and into it. go into your script folder and type the command
+  '''
+  activate virtual env
+  '''
+  Now we´re going to update the pip.
+  '''
+  python -m pip install --upgrade pip
+  '''
+  afer update pip you can check version of pip. for this you can type this command into the terminal.
+  '''
+  pip --version
+  '''
+  If you get right here and everything is good its means that now you´re ready to install the core of anychatbot.
+  for this type this command into the terminal.
+  
+  pip install chatterbot==0.7.4
+  pip install chatterbot-corpus==1.2.0
 
 
 link to documentaion chatterbot 
