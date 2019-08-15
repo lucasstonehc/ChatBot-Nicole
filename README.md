@@ -52,7 +52,6 @@ J"  z$;;;,       `:         `.`.  $$$$?;;;;;i"
     ?$$$$$       ""'       `;;;;;;;;,         `.`.`.`.hJ"  `"??cc,    $
 ?"???"??"          j'       :;;;;;;;;;;,       .`.`.`.`$               $
 
-
 # How can you earned me?
 ## Always use virtual enviroment.
   create virtualenv python -m venv Nicole.
