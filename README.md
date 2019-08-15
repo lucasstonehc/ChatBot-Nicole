@@ -33,10 +33,15 @@
  -HOBBY: Travels, Walker.
  -BORN: CA.
  
+# How am i work?
+  I´m robot create to talk with you about a lot of things and every conversation i´m learning something. it´s really awesome, is it ?
+  
 # How can you earned me?
-## Always use virtual enviroment.
+  i was create in python language and my core is wrote in python, sure. then a recommendation for you used Virtual Enviroment (VENV).
+  
+  '''
   create virtualenv python -m venv Nicole.
-
+  '''
 ## Follow this steps:
 1 create virtualenv
 	python -m venv "name"
