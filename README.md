@@ -11,7 +11,7 @@
          ,AMMM:        :::""  ':;. .::: .::
          AMMMMA       :" .;;-  '::. '.:; .::
          MMMMMMA     .":,P"  '  ;;I;. ': .::,
-         MMMMMMM,   ." :  . .:"'-";;:;.::.:I:        #MY NAME IS NICOLE! LET`S TRY TALK ABOUT SOMETHING
+         MMMMMMM,   ." :  . .:"'-";;:;.::.:I:        #MY NAME IS NICOLE! LET`S TRY TO TALK ABOUT SOMETHING
          MMMMMMMM   : .: . .: .:-"""Y' ':..::;
          VMMMMMMMA  : .':.':.A;,,-::"..'I.:;II
           VMMMMMHMA,;. .::    """" .'.: A.::IA:
