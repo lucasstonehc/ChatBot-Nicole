@@ -44,32 +44,32 @@
   '''
   After created your venv, you have to go upto your folder and into it. go into your script folder and type the command
   '''
-  activate virtual env
+  activate virtual env </br>
   '''
-  Now we´re going to update the pip.
+  Now we´re going to update the pip. </br>
   '''
-  python -m pip install --upgrade pip
+  python -m pip install --upgrade pip </br>
   '''
-  afer update pip you can check version of pip. for this you can type this command into the terminal.
+  afer update pip you can check version of pip. for this you can type this command into the terminal. </br>
   '''
-  pip --version
+  pip --version </br>
   '''
-  If you get right here and everything is good its means that now you´re ready to install the core of anychatbot.
-  for this type this command into the terminal.
+  If you get right here and everything is good its means that now you´re ready to install the core of anychatbot.</br>
+  for this type this command into the terminal.</br>
   
   pip install chatterbot==0.7.4 </br>
   pip install chatterbot-corpus==1.2.0 </br>
 
 
-link to documentaion chatterbot 
+link to documentaion chatterbot </br>
 https://chatterbot.readthedocs.io/en/latest/setup.html
 
 
 erros:
 
-trainer = ChatterBotCorpusTrainer(bot)
-trainer.train("chatterbot.corpus.english")
-with the below lines:
-bot.set_trainer(ChatterBotCorpusTrainer)
-bot.train("chatterbot.corpus.english
+trainer = ChatterBotCorpusTrainer(bot)</br>
+trainer.train("chatterbot.corpus.english")</br>
+with the below lines:</br>
+bot.set_trainer(ChatterBotCorpusTrainer)</br>
+bot.train("chatterbot.corpus.english</br>
  
