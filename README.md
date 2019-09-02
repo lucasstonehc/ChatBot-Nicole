@@ -40,7 +40,7 @@
   i was create in python language and my core is wrote in python, sure. then a recommendation for you used Virtual Enviroment (VENV).
   
   '''
-   create virtualenv python -m venv Nicole.
+   **create virtualenv python -m venv Nicole**.
   '''
   
   After created your venv, you have to go upto your folder and into it. go into your script folder and type the command
@@ -51,21 +51,21 @@
   
   Now we´re going to update the pip. </br>
   
-  '''
-  python -m pip install --upgrade pip </br>
-  '''
+  
+  **python -m pip install --upgrade pip** </br>
+  
   
   afer update pip you can check version of pip. for this you can type this command into the terminal. </br>
   
-  '''
-  pip --version </br>
-  '''
+  
+  **pip --version** </br>
+  
   
   If you get right here and everything is good its means that now you´re ready to install the core of anychatbot.</br>
   for this type this command into the terminal.</br>
   
-  pip install chatterbot==0.7.4 </br>
-  pip install chatterbot-corpus==1.2.0 </br>
+  **pip install chatterbot==0.7.4 </br>
+  pip install chatterbot-corpus==1.2.0** </br>
 
 
 link to documentaion chatterbot </br>
