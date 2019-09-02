@@ -27,11 +27,11 @@
     
 
 # About me:
- -NAME: NICOLE APINA PY.
- -AGE: 19 years old.
- -DESC: I love to talk about the universe, good food, right humans, travels, dreams, read a books and love the animals.
- -HOBBY: Travels, Walker.
- -BORN: CA.
+ -NAME: NICOLE APINA PY.</br>
+ -AGE: 19 years old.</br>
+ -DESC: I love to talk about the universe, good food, right humans, travels, dreams, read a books and love the animals.</br>
+ -HOBBY: Travels, Walker.</br>
+ -BORN: CA.</br>
  
 # How am i work?
   I´m robot created to talk with you about a lot of things and every conversation i´m learning something. it´s really awesome, is it ?
@@ -42,18 +42,25 @@
   '''
    create virtualenv python -m venv Nicole.
   '''
+  
   After created your venv, you have to go upto your folder and into it. go into your script folder and type the command
+  
   '''
   activate virtual env </br>
   '''
+  
   Now we´re going to update the pip. </br>
+  
   '''
   python -m pip install --upgrade pip </br>
   '''
+  
   afer update pip you can check version of pip. for this you can type this command into the terminal. </br>
+  
   '''
   pip --version </br>
   '''
+  
   If you get right here and everything is good its means that now you´re ready to install the core of anychatbot.</br>
   for this type this command into the terminal.</br>
   
