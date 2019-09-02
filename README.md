@@ -57,8 +57,8 @@
   If you get right here and everything is good its means that now you´re ready to install the core of anychatbot.
   for this type this command into the terminal.
   
-  pip install chatterbot==0.7.4
-  pip install chatterbot-corpus==1.2.0
+  pip install chatterbot==0.7.4 </br>
+  pip install chatterbot-corpus==1.2.0 </br>
 
 
 link to documentaion chatterbot 
